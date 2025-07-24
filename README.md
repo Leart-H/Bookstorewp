@@ -22,6 +22,9 @@ Contact Page
 <img width="947" height="397" alt="Screenshot wp3" src="https://github.com/user-attachments/assets/69768ccd-895b-44da-afd8-6e43a0cd883a" />
 
 Cart
+
+
+
 <img width="480" height="404" alt="cart" src="https://github.com/user-attachments/assets/2d9c13ad-5513-4ff8-a757-180329f08bf8" />
 <img width="904" height="395" alt="cart2" src="https://github.com/user-attachments/assets/da68fd8c-ba89-4f62-9dad-49d10c8603e4" />
 
