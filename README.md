@@ -29,10 +29,14 @@ Cart
 <img width="904" height="395" alt="cart2" src="https://github.com/user-attachments/assets/da68fd8c-ba89-4f62-9dad-49d10c8603e4" />
 
 Checkout
+
+
 <img width="764" height="399" alt="checkout" src="https://github.com/user-attachments/assets/08f3dd50-ff89-4c4e-9e87-fd61e34a9bdb" />
 <img width="802" height="346" alt="checkout2" src="https://github.com/user-attachments/assets/dfc14d7f-ee09-4eec-a892-38d70f72733d" />
 
 View Book Page
+
+
 <img width="218" height="389" alt="cartbutton" src="htt<img width="863" height="401" alt="book" src="https://github.com/user-attachments/assets/5963a7b1-b759-4c1d-ae83-e7628c674d0f" />
 <img width="863" height="401" alt="book" src="https://github.com/user-attachments/assets/aa9fc0fd-acae-4635-b840-b7aee0c96805" />
 
