@@ -37,7 +37,6 @@ Checkout
 View Book Page
 
 
-<img width="218" height="389" alt="cartbutton" src="htt<img width="863" height="401" alt="book" src="https://github.com/user-attachments/assets/5963a7b1-b759-4c1d-ae83-e7628c674d0f" />
 <img width="863" height="401" alt="book" src="https://github.com/user-attachments/assets/aa9fc0fd-acae-4635-b840-b7aee0c96805" />
 
 <img width="818" height="113" alt="desc" src="https://github.com/user-attachments/assets/8ef458ec-4f5f-4539-be23-3fa7de44a732" />
